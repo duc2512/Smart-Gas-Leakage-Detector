@@ -18,18 +18,15 @@
 
 ## 📸 Demo
 
-<!-- 
-🔽 THÊM HÌNH ẢNH / VIDEO DEMO TẠI ĐÂY 🔽
-Ví dụ:
-![Demo](docs/demo.gif)
-![Hardware](docs/hardware.jpg)
--->
+<div align="center">
 
-> ⚠️ *Vui lòng thêm ảnh/video demo thiết bị phần cứng tại đây.*
->
-> ⚠️ *Please add hardware demo images/videos here.*
+### Sơ đồ đấu nối / Wiring Diagram
 
-> 💡 *Dự án có sẵn file sơ đồ đấu nối trong thư mục: `CANH_BAO_KHI_GAS_MQ2/SO DO DAU NOI.png`*
+![Sơ đồ đấu nối](CANH_BAO_KHI_GAS_MQ2/SO%20DO%20DAU%20NOI.png)
+
+*Sơ đồ kết nối ESP8266 NodeMCU với MQ-2, Buzzer, Relay và LED*
+
+</div>
 
 ---
 
